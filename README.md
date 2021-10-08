@@ -14,6 +14,8 @@ Made with React Native for UI and data fetching with GraphQL Apollo Client to fu
 ## About Me
 React Native Developer, Mobile App Developer, Full Stack Web Developer and Techno Geek. Always interested on new technology, computer science and programming. Experienced as a Programmers onsite or remotely.
 
+-[LinkedIn - Della Reno Rinaldi](https://www.linkedin.com/in/della-reno-rinaldi-1b0790a2/)
+Email: renocerberus@gmail.com
   
 ## Features
 
@@ -26,5 +28,5 @@ React Native Developer, Mobile App Developer, Full Stack Web Developer and Techn
   
 ## Tech Stack
 
-**Client:** React Native, Apollo Client, GraphQl
+**Client:** React Native, Apollo Client, GraphQL
   
